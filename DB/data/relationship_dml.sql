@@ -1,0 +1,14 @@
+INSERT INTO relationship_type (`type`, `description`) VALUES ("SON", "Son");
+INSERT INTO relationship_type (`type`, `description`) VALUES ("DAUGHTER", "Daughter");
+INSERT INTO relationship_type (`type`, `description`) VALUES ("BROTHER", "Brother");
+INSERT INTO relationship_type (`type`, `description`) VALUES ("SISTER", "Sister");
+INSERT INTO relationship_type (`type`, `description`) VALUES ("GRANDSON", "Granddaughter");
+INSERT INTO relationship_type (`type`, `description`) VALUES ("GRANDDAUGHTER", "Grandson");
+INSERT INTO relationship_type (`type`, `description`) VALUES ("SON-IN-LAW", "Son in law");
+INSERT INTO relationship_type (`type`, `description`) VALUES ("DAUGHTER-IN-LAW", "Daughter in law");
+INSERT INTO relationship_type (`type`, `description`) VALUES ("NEIGHBOR", "Neighbor");
+INSERT INTO relationship_type (`type`, `description`) VALUES ("FRIEND", "Friend");
+INSERT INTO relationship_type (`type`, `description`) VALUES ("NIECE", "Niece");
+INSERT INTO relationship_type (`type`, `description`) VALUES ("NEPHEW", "Nephew");
+INSERT INTO relationship_type (`type`, `description`) VALUES ("COUSIN", "Cousin");
+INSERT INTO relationship_type (`type`, `description`) VALUES ("OTHER", "Other");

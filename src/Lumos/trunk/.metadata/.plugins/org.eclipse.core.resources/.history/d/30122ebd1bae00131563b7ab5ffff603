@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lumos</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">hello world ks</string>
+    <string name="title_activity_mztest">MZTestActivity</string>
+    <string name="mz_menu_text">Nipples The Cat</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="title_activity_display_message">My Message</string>
+    <string name="notification">Ping Notification</string>
+    <string name="label">Ping Me</string>
+
+    <!-- buttons -->
+    <string name="button_send">Send</string>
+    <string name="button_howareyou">How Are You?</string>
+    <string name="button_takemeasurement">Take A Measurement</string>
+    <string name="ping">Ping</string>
+    <string name="snooze">Snooze</string>
+    <string name="dismiss">Dismiss</string>
+
+    <!-- alert stuff -->
+    <string name="ping_text">Set Seconds Until Ping</string>
+    <string name="done_snoozing">Done Snoozing</string>
+    <string name="seconds_default">10</string>
+    <string name="reminder_label">Reminder text</string>
+    <string name="reminder_text">Take Rx now</string>
+
+    <!-- logging -->
+    <string name="snoozing">Snoozing!</string>
+    <string name="timer_start">Setting the timer</string>
+    <string name="sleep_error">Sleep failure</string>
+    <string name="timer_finished">Timer finished</string>
+    <string name="title_activity_display_medications">DisplayMedicationsActivity</string>
+    <string name="title_activity_survey_chooser">SurveyChooserActivity</string>
+
+</resources>

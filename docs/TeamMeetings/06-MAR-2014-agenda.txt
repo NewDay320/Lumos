@@ -1,0 +1,17 @@
+Agenda for New Day's team meeting 06-MAR-2014
+
+Author: Michael Z
+
+Team Members: Evan Bellmore, Kate, Julia Edwards
+
+
+	* Hash out some of the details about the SMD's role with the database.	
+
+	* provide a clear path to next Tuesday's HLD presentation.
+
+
+(+KS: ideas for meeting:
+* UML diagram sketches? 
+* think about what main Activity will look like? 
+* start thinking about how we will get a config file from provider
+appliction to client application s.t. client application will pick up all settings and become configured?)

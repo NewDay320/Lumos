@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+/Users/kate/S14/320/android/NewDay/.metadata/.plugins/org.eclipse.jdt.core
+914162579.index
+1602503650.index
+3988585531.index

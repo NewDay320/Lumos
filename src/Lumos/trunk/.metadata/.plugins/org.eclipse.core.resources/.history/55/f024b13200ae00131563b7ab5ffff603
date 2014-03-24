@@ -1,0 +1,28 @@
+package com.lumos.client.pingme;
+
+import android.app.IntentService;
+import android.app.Notification;
+import android.app.NotificationManager;
+import android.support.v4.app.NotificationCompat;
+import android.content.Intent;
+
+public class PingService extends IntentService {
+	
+	private NotificationManager mNotificationManager;
+	private String mMessage;
+	private int mMillis;
+	NotificationCompat.Builder builder;
+	
+	public PingService(){
+		super("com.lumos.client.pingme");
+	}
+	
+	@Override
+	protected void onHandleIntent(Intent intent){
+		mMessage = intent.getStringExtra(CommonConstants.EXTRA_MESSAGE);
+		mMillis = intent.getIntExtra(CommonConstants.EXTRA_TIMER, CommonConstants.DEFAULT_TIMER_DURATION);
+		NotificationManager nm = (NotificationManager) getSystemService(NOTIFICATION_SERVICE);
+		String action = intent.getAction();
+		
+	}
+}

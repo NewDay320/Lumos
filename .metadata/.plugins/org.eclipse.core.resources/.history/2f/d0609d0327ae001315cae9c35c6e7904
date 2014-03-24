@@ -1,0 +1,9 @@
+package com.lumos.client;
+
+public class IpsumDietLog {
+	static String[] Items = {
+		"Chill Pill: 1:00pm",
+		"Advil: as needed"
+	};
+
+}

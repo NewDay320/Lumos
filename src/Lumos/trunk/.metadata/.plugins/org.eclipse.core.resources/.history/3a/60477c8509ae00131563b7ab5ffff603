@@ -1,0 +1,5 @@
+package com.lumos.client.pingme;
+
+public class PingMainActivity {
+
+}

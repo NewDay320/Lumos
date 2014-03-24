@@ -1,0 +1,8 @@
+package com.lumos.client.pingme;
+
+public final class CommonConstants {
+	public CommonConstants(){
+		// can't instantiate me
+	}
+	
+}

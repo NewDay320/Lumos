@@ -1,0 +1,10 @@
+package com.lumos.client.pingme;
+
+public final class CommonConstants {
+	public CommonConstants(){
+		// can't instantiate me
+	}
+	// snooze duration in ms (= 20 s)
+	public static final int SNOOZE_DURATION = 20000;
+	
+}

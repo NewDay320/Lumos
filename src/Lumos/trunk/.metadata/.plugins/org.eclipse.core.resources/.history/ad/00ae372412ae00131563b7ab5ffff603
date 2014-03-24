@@ -1,0 +1,26 @@
+package com.lumos.client;
+
+import com.lumos.R;
+
+import android.app.Activity;
+import android.os.Build;
+import android.os.Bundle;
+import android.support.v4.app.ListFragment;
+import android.view.View;
+import android.widget.ArrayAdapter;
+import adroid.widget.ListView;
+
+public class ScheduleFragment extends ListFragment {
+	
+	OnItemSelectedListener mCallback;
+	
+	public interface OnItemSelectedListener {
+		public void onItemSelected(int position);
+	}
+	
+	@Override
+	public View onCreate(Bundle savedInstanceState){
+		
+	}
+
+}

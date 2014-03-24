@@ -1,0 +1,10 @@
+package com.lumos.client;
+
+public class IpsumSchedule {
+	
+	static String[] Items = {
+		"Chill Pill",
+		"Advil"
+	}
+
+}

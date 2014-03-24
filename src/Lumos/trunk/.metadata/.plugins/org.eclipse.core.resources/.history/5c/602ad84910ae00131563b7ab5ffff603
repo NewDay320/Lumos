@@ -1,0 +1,14 @@
+package com.lumos.client;
+
+import android.support.v4.app.Fragment;
+import android.view.LayoutInflater;
+import android.view.ViewGroup;
+
+public class ScheduleFragment extends Fragment {
+	
+	@Override
+	public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState){
+		
+	}
+
+}

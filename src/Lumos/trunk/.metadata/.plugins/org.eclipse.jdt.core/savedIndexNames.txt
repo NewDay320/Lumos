@@ -1,0 +1,2 @@
+INDEX VERSION 1.126+/Users/kate/S14/320/android/NewDay/src/Lumos/trunk/.metadata/.plugins/org.eclipse.jdt.core
+3988585531.index
